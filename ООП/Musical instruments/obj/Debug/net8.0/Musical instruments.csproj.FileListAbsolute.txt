@@ -1,0 +1,14 @@
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Musical instruments\bin\Debug\net8.0\Musical instruments.exe
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Musical instruments\bin\Debug\net8.0\Musical instruments.deps.json
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Musical instruments\bin\Debug\net8.0\Musical instruments.runtimeconfig.json
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Musical instruments\bin\Debug\net8.0\Musical instruments.dll
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Musical instruments\bin\Debug\net8.0\Musical instruments.pdb
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Musical instruments\obj\Debug\net8.0\Musical instruments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Musical instruments\obj\Debug\net8.0\Musical instruments.AssemblyInfoInputs.cache
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Musical instruments\obj\Debug\net8.0\Musical instruments.AssemblyInfo.cs
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Musical instruments\obj\Debug\net8.0\Musical instruments.csproj.CoreCompileInputs.cache
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Musical instruments\obj\Debug\net8.0\Musical instruments.dll
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Musical instruments\obj\Debug\net8.0\refint\Musical instruments.dll
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Musical instruments\obj\Debug\net8.0\Musical instruments.pdb
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Musical instruments\obj\Debug\net8.0\Musical instruments.genruntimeconfig.cache
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Musical instruments\obj\Debug\net8.0\ref\Musical instruments.dll

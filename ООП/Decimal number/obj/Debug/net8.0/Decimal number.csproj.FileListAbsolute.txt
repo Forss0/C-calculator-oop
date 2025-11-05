@@ -1,0 +1,14 @@
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Decimal number\bin\Debug\net8.0\Decimal number.exe
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Decimal number\bin\Debug\net8.0\Decimal number.deps.json
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Decimal number\bin\Debug\net8.0\Decimal number.runtimeconfig.json
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Decimal number\bin\Debug\net8.0\Decimal number.dll
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Decimal number\bin\Debug\net8.0\Decimal number.pdb
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Decimal number\obj\Debug\net8.0\Decimal number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Decimal number\obj\Debug\net8.0\Decimal number.AssemblyInfoInputs.cache
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Decimal number\obj\Debug\net8.0\Decimal number.AssemblyInfo.cs
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Decimal number\obj\Debug\net8.0\Decimal number.csproj.CoreCompileInputs.cache
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Decimal number\obj\Debug\net8.0\Decimal number.dll
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Decimal number\obj\Debug\net8.0\refint\Decimal number.dll
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Decimal number\obj\Debug\net8.0\Decimal number.pdb
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Decimal number\obj\Debug\net8.0\Decimal number.genruntimeconfig.cache
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\ООП\Decimal number\obj\Debug\net8.0\ref\Decimal number.dll
