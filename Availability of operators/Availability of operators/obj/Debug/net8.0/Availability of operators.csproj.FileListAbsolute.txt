@@ -1,0 +1,14 @@
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Availability of operators\Availability of operators\obj\Debug\net8.0\Availability of operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Availability of operators\Availability of operators\obj\Debug\net8.0\Availability of operators.AssemblyInfoInputs.cache
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Availability of operators\Availability of operators\obj\Debug\net8.0\Availability of operators.AssemblyInfo.cs
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Availability of operators\Availability of operators\obj\Debug\net8.0\Availability of operators.csproj.CoreCompileInputs.cache
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Availability of operators\Availability of operators\bin\Debug\net8.0\Availability of operators.exe
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Availability of operators\Availability of operators\bin\Debug\net8.0\Availability of operators.deps.json
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Availability of operators\Availability of operators\bin\Debug\net8.0\Availability of operators.runtimeconfig.json
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Availability of operators\Availability of operators\bin\Debug\net8.0\Availability of operators.dll
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Availability of operators\Availability of operators\bin\Debug\net8.0\Availability of operators.pdb
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Availability of operators\Availability of operators\obj\Debug\net8.0\Availability of operators.dll
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Availability of operators\Availability of operators\obj\Debug\net8.0\refint\Availability of operators.dll
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Availability of operators\Availability of operators\obj\Debug\net8.0\Availability of operators.pdb
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Availability of operators\Availability of operators\obj\Debug\net8.0\Availability of operators.genruntimeconfig.cache
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Availability of operators\Availability of operators\obj\Debug\net8.0\ref\Availability of operators.dll
