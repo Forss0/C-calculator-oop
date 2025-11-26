@@ -1,0 +1,14 @@
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Garbage collection\Garbage collection\obj\Debug\net8.0\Garbage_collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Garbage collection\Garbage collection\obj\Debug\net8.0\Garbage_collection.AssemblyInfoInputs.cache
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Garbage collection\Garbage collection\obj\Debug\net8.0\Garbage_collection.AssemblyInfo.cs
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Garbage collection\Garbage collection\obj\Debug\net8.0\Garbage_collection.csproj.CoreCompileInputs.cache
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Garbage collection\Garbage collection\bin\Debug\net8.0\Garbage_collection.exe
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Garbage collection\Garbage collection\bin\Debug\net8.0\Garbage_collection.deps.json
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Garbage collection\Garbage collection\bin\Debug\net8.0\Garbage_collection.runtimeconfig.json
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Garbage collection\Garbage collection\bin\Debug\net8.0\Garbage_collection.dll
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Garbage collection\Garbage collection\bin\Debug\net8.0\Garbage_collection.pdb
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Garbage collection\Garbage collection\obj\Debug\net8.0\Garbage_collection.dll
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Garbage collection\Garbage collection\obj\Debug\net8.0\refint\Garbage_collection.dll
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Garbage collection\Garbage collection\obj\Debug\net8.0\Garbage_collection.pdb
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Garbage collection\Garbage collection\obj\Debug\net8.0\Garbage_collection.genruntimeconfig.cache
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Garbage collection\Garbage collection\obj\Debug\net8.0\ref\Garbage_collection.dll
