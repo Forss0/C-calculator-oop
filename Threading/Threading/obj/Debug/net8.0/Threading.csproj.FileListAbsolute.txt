@@ -1,0 +1,14 @@
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Threading\Threading\obj\Debug\net8.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Threading\Threading\obj\Debug\net8.0\Threading.AssemblyInfoInputs.cache
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Threading\Threading\obj\Debug\net8.0\Threading.AssemblyInfo.cs
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Threading\Threading\obj\Debug\net8.0\Threading.csproj.CoreCompileInputs.cache
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Threading\Threading\bin\Debug\net8.0\Threading.exe
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Threading\Threading\bin\Debug\net8.0\Threading.deps.json
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Threading\Threading\bin\Debug\net8.0\Threading.runtimeconfig.json
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Threading\Threading\bin\Debug\net8.0\Threading.dll
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Threading\Threading\bin\Debug\net8.0\Threading.pdb
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Threading\Threading\obj\Debug\net8.0\Threading.dll
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Threading\Threading\obj\Debug\net8.0\refint\Threading.dll
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Threading\Threading\obj\Debug\net8.0\Threading.pdb
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Threading\Threading\obj\Debug\net8.0\Threading.genruntimeconfig.cache
+C:\Users\sdidi\OneDrive\Рабочий стол\IvanDidyk\C# Pro\Threading\Threading\obj\Debug\net8.0\ref\Threading.dll
