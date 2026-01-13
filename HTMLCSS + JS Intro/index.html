@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Іван Дідик — Візитка</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+    <div class="hero-content">
+        <h1>Іван Дідик</h1>
+        <p id="dynamic-text">Майбутній розробник та геймдев ентузіаст</p>
+        <button onclick="changePhrase()">Змінити настрій</button>
+    </div>
+</header>
+
+<nav>
+    <a href="#about">Про мене</a>
+    <a href="#skills">Навички</a>
+    <a href="#gallery">Галерея</a>
+</nav>
+
+<main>
+
+<section id="about" class="card">
+    <h2>Про мене</h2>
+    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475" alt="Робоче місце програміста">
+    <p>
+        Я вивчаю веб-розробку та створення ігор.
+        Мені подобається писати код і бачити результат одразу.
+    </p>
+</section>
+
+<section id="skills" class="card">
+    <h2>Навички</h2>
+
+    <div class="skills" id="skills-list">
+        <span class="skill">HTML <button onclick="removeSkill(this)">✖</button></span>
+        <span class="skill">CSS <button onclick="removeSkill(this)">✖</button></span>
+        <span class="skill">JavaScript <button onclick="removeSkill(this)">✖</button></span>
+    </div>
+
+    <div class="add-skill">
+        <input type="text" id="skill-input" placeholder="Нова навичка">
+        <button onclick="addSkill()">Додати</button>
+    </div>
+</section>
+
+<section id="gallery" class="card">
+    <h2>Натхнення</h2>
+
+    <div class="gallery">
+        <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" alt="Фото 1">
+        <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97" alt="Фото 2">
+        <img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93" alt="Фото 3">
+    </div>
+</section>
+
+</main>
+
+<footer>
+    <p>© 2026 Іван Дідик</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
